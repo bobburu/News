@@ -29,8 +29,8 @@ public class NewsPagerAdapter extends FragmentPagerAdapter {
                 return new ScienceFrag();
             case 5:
                 return new SportsFrag();
-            case 6:
-                return new TechnologyFrag();
+//            case 6:
+//                return new TechnologyFrag();
             default:
                 return null;
         }
@@ -38,7 +38,7 @@ public class NewsPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return 7;
+        return 6;
     }
 
     @Override
@@ -56,8 +56,8 @@ public class NewsPagerAdapter extends FragmentPagerAdapter {
                 return new String("Science");
             case 5:
                 return new String("Sports");
-            case 6:
-                return new String("Technology");
+//            case 6:
+//                return new String("Technology");
             default:
                 return null;
         }
