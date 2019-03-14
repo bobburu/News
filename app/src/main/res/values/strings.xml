@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="tab1_name">Tab1</string>
+    <string name="tab2_name">Tab2</string>
+    <string name="tab3_name">Tab3</string>
+    <string name="tab4_name">Tab4</string>
+    <string name="tab5_name">Tab5</string>
+
+</resources>
